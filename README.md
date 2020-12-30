@@ -1,2 +1,3 @@
 Vũ Minh Luân - 18521067
-# CS114.K21
+University of Information Technology
+vuminhluan2307@gmail.com
